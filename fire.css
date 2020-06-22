@@ -1,0 +1,88 @@
+body{
+    background-image: url('yobbie 2.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin-top: 118px;
+    padding: 0;
+     margin: 0;
+}
+nav{padding: 0%;
+margin:1 px;
+background:brown;
+min-height:120px;
+}
+nav ul{
+text-align: right;
+line-height: 35px;
+}
+ul li{
+    display: inline-block;
+    margin: 1px;
+}
+nav ul li a{
+    transform: uppercase;
+    text-decoration: none;
+    color: black;
+    background-color: blanchedalmond;
+    padding: 5px;
+    display: block;
+}
+nav ul li a:hover{
+    padding: 15px;
+    background-color: grey;
+    color:cyan;
+}
+nav.header{
+    background-color: brown;
+    min-height: 120px;
+    color: brown;
+    line-height: 40px;
+}
+.my_heading{
+    
+    font-size: 40px;
+    float: left;
+    margin-left:300px;
+    color:grey;
+    font-size:4.7rem;
+    float:center;
+}
+.image img{
+    border-radius: 20px;
+    float:center;
+    height:350px;
+    width:350px;
+    margin-top:-370px;
+    margin-left: 200px;
+
+}
+.description{
+    float:center;
+    width: 30%;
+    margin-left: 50%;
+    margin-top: 20%;
+}
+
+#sliderbox img{
+    float:right;
+    width: 300px;
+    height:200px;
+    margin-top: -40px;
+    padding: 50px;
+    border-radius: 50px;
+    margin-right: 20px;
+}
+.mylogo img{
+    width: 150px;
+    height: 100px;
+    float:left;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+footer{
+    background-color: blueviolet;
+    width: 100%;
+    height: auto;
+    bottom:0px;
+    position: fixed;
+}
